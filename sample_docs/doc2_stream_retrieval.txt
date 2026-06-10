@@ -1,0 +1,1 @@
+Information retrieval systems build inverted indexes, positional indexes, and biword indexes. A positional index supports accurate phrase search.

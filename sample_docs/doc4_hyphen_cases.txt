@@ -1,0 +1,1 @@
+State-of-the-art retrieval handles spelling mistakes, wildcard queries, and phrase-query processing. A state of the art system avoids false positives.

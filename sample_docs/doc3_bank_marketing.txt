@@ -1,0 +1,1 @@
+Bank marketing campaigns use machine learning models to predict customer subscription. Retrieval quality depends on preprocessing and query handling.
