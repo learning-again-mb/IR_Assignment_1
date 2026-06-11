@@ -1,7 +1,6 @@
 # End-to-End Information Retrieval System using Streamlit
 
 This submission implements an Information Retrieval system with a Streamlit front end.  
-The code flow follows the webinar sample style:
 
 1. Step 1: Read dataset
 2. Step 2: Preprocess text
@@ -58,6 +57,3 @@ The app includes a `sample_docs` folder. You can also upload your own `.txt` fil
 - `requirements.txt` - dependency list
 - `sample_docs/` - sample text document collection
 
-## Note for BITS Lab Portal
-
-Run the complete workflow only through the Streamlit front end. The app displays intermediate outputs such as tokens, indexes, query results, performance tables, and final inferences.
